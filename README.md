@@ -123,3 +123,13 @@ This project uses **PlatformIO** (VS Code + the PlatformIO extension is recommen
 - Fine-tune the PID controller to reduce jerk/vibration during acceleration or sudden direction changes.
 - Consider adding current/voltage sensing for the battery to monitor power status on the dashboard.
 - Add authentication (password) to the control dashboard to prevent unauthorized access from other devices on the same Wi‑Fi network.
+
+---
+
+If this project helped you or inspired your own robot build, please consider giving it a star ⭐ on GitHub — it means a lot and helps others discover this project!
+
+<div align="center">
+   
+Made with ❤️ by nguyenvantra-debug (Văn Trà)
+
+Ho Chi Minh City University of Technology (HCMUT) | Bachelor of Engineering in Electronics and Telecommunications | 2026
