@@ -1,3 +1,4 @@
+<div align="center">
 # 🚛 Cargo Transport Robot — ESP32-S3
 
 A remotely operated cargo transport robot controlled over Wi‑Fi. An ESP32-S3 acts as the central controller, driving two DC motors with encoders, closed‑loop PID speed control, a virtual gearbox (gears N–4), and a real‑time web dashboard (joystick, parking brake, emergency stop).
